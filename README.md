@@ -1,10 +1,9 @@
-﻿--By Sugeng Riyanto--
-# This is registration and login system using getbootstrap and Flask Pyhton
+# This is registration and login system using getbootstrap and Flask-Python
 Source: https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
 Detail requirement, visit this google site:https://sites.google.com/view/coding9/python-flask/python-with-flask
 
-First, in Visual Studio Code, click menu view==>Command Pallete, choose Create Environment. Then repeat and choose Select Interpreter
+First, in Visual Studio Code, click menu view==> *Command Pallete*, choose *Create Environment*. Then repeat and choose *Select Interpreter*
 
 Second, install Flask package, click Terminal, then copy the following and right click, to paste:
 
@@ -41,8 +40,6 @@ Initialization
 
     git init
 
- Add README.md file
-    
     git add README.md
 
 push
@@ -70,7 +67,7 @@ Ready to push
     git push -u origin main
 
 if you want to name the branch master. Run:
-`git push -u origin master` #instead of `git push -u origin main`
+`git push -u origin master` #instead of `git push -u origin main
 
 if you want to name the branch main. Run:
 git checkout -B` main before `git push -u origin main`
@@ -81,14 +78,14 @@ clear the gitbash
 
 In the folder project, add file with the name is .gitignore
 example, we can specify ignore file(s) not include to repo such us config.txt, data/, *.exe
+
 Suggestion: https://github.com/github/gitignore
 https://www.toptal.com/developers/gitignore/ or https://gitignore.io/
 
 Second push
 
     git add .
-
-Check Status
+Check status
 
     git status
 
@@ -96,7 +93,8 @@ git commit -m "second commit"
 
     git push
 
+push
+
     git branch -M main
 
 That's it! To be Continuous...
-
