@@ -1,5 +1,5 @@
 ﻿--By Sugeng Riyanto--
-# This is registration and login system using getboostrap and Flask Pyhton
+# This is registration and login system using getbootstrap and Flask Pyhton
 Source: https://getbootstrap.com/docs/5.3/getting-started/introduction/
 Detail requirement, visit this google site:https://sites.google.com/view/coding9/python-flask/python-with-flask
 
@@ -10,7 +10,8 @@ Second, install Flask package, click Terminal, then copy the following and right
     pip install flask
 
 Third, do the same way like second step to install Flask-MySQLdb
-pip install flask-mysqldb
+
+    pip install flask-mysqldb
 
 Fourth, Creating Database in SQL(create database):
 
@@ -39,6 +40,8 @@ Initialization
 
     git init
 
+ Add README.md file
+    
     git add README.md
 
 push
@@ -83,6 +86,8 @@ https://www.toptal.com/developers/gitignore/ or https://gitignore.io/
 Second push
 
     git add .
+
+Check Status
 
     git status
 
