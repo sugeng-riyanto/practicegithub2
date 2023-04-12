@@ -1,6 +1,7 @@
 ﻿--By Sugeng Riyanto--
 # This is registration and login system using getbootstrap and Flask Pyhton
 Source: https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
 Detail requirement, visit this google site:https://sites.google.com/view/coding9/python-flask/python-with-flask
 
 First, in Visual Studio Code, click menu view==>Command Pallete, choose Create Environment. Then repeat and choose Select Interpreter
