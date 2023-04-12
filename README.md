@@ -39,6 +39,8 @@ Create folder in your github account, then select this statement such us git rem
 Initialization
 
     git init
+ 
+ Add specific README.md
 
     git add README.md
 
